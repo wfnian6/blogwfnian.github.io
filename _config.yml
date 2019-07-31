@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://wfnian6.github.io/blogwfnian.github.io"
 permalink: /:year/:month/:day/:title
-repository: ShawnTeoh/matjek
+repository: wfnian/blogwfnian.github.io
 paginate: 3
 
 # MatJek specific configurations
