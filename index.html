@@ -16,7 +16,7 @@ css: ["index.css"]
       </div>
       <div class="card-action">
         <a href="{{post.url | prepend: site.baseurl}}">
-          Read More
+          阅读更多
         </a>
       </div>
     </div>
@@ -28,22 +28,22 @@ css: ["index.css"]
         {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
         <a href="{{site.baseurl}}/">
-        {% else %}
-        <a href="{{site.baseurl}}/page{{paginator.previous_page}}">
-        {% endif %}
-        {% else %}
-        <a href="#!">
-        {% endif %}
-          <i class="material-icons">chevron_left</i>
-        </a>
+          {% else %}
+          <a href="{{site.baseurl}}/page{{paginator.previous_page}}">
+            {% endif %}
+            {% else %}
+            <a href="#!">
+              {% endif %}
+              <i class="material-icons">chevron_left</i>
+            </a>
       </li>
       {% if paginator.page == 1 %}
       <li class="active teal">
         <a href="#!">1</a>
-      {% else %}
+        {% else %}
       <li class="waves-effect">
         <a href="{{site.baseurl}}/">1</a>
-      {% endif %}
+        {% endif %}
       </li>
       {% for count in (2..paginator.total_pages) %}
       {% if count == paginator.page %}
@@ -55,11 +55,11 @@ css: ["index.css"]
       <li class="{% unless paginator.next_page %}disabled{% else %}waves-effect{% endunless %}">
         {% if paginator.next_page %}
         <a href="{{site.baseurl}}/page{{paginator.next_page}}">
-        {% else %}
-        <a href="#!">
-        {% endif %}
-          <i class="material-icons">chevron_right</i>
-        </a>
+          {% else %}
+          <a href="#!">
+            {% endif %}
+            <i class="material-icons">chevron_right</i>
+          </a>
       </li>
     </ul>
   </div>

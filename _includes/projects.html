@@ -1,17 +1,10 @@
-{% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse  %}
-<div class="col s12 switch">
-  <label>
-    Show forked projects
-    <input class="fork-switch" type="checkbox" checked="0" onchange="toggleForked()">
-    <span class="lever"></span>
-  </label>
-</div>
 <!-- add 小曾 -->
 <div class="col s12 m6 l4">
   <div class="card hoverable">
-    <div class="card-image waves-effect waves-block waves-light geopattern activator" >
+    <div class="card-image waves-effect waves-block waves-light geopattern activator">
       <!-- <i class="material-icons waves-effect waves-block waves-light">more_vert</i> -->
-      <a class="card-title center-align valign-wrapper" href="http://xzeng.top" target="_blank" style="background-image: linear-gradient(120deg, #3c4bff, #ff45d1)">写给小曾</a>
+      <a class="card-title center-align valign-wrapper" href="https://wfnian.top/enter/login.html" target="_blank"
+        style="background-image: linear-gradient(120deg, #3c4bff, #ff45d1)">写给小曾</a>
     </div>
     <div class="card-content valign-wrapper center-align activator">
       <span class="activator grey-text text-darken-1">希望你能得到你想要的</span>
@@ -22,43 +15,94 @@
 <div class="col s12 m6 l4">
   <div class="card hoverable">
     <div class="card-image waves-effect waves-block waves-light geopattern activator" data-pattern-id="{{repo.name}}">
-      <i class="material-icons waves-effect waves-block waves-light">more_vert</i>
-      
-      <a class="card-title center-align valign-wrapper" href="http://wfnian.top" target="_blank" style="background-image: linear-gradient(120deg, #155799, #159957)">纪念与记念</a>
+      <!-- <i class="material-icons waves-effect waves-block waves-light">more_vert</i> -->
+
+      <a class="card-title center-align valign-wrapper" href="http://wfnian.top" target="_blank"
+        style="background-image: linear-gradient(120deg, #155799, #159957)">纪念与记念</a>
     </div>
     <div class="card-content valign-wrapper center-align activator">
       <span class="activator grey-text text-darken-1">不如意事常八九</span>
     </div>
   </div>
 </div>
-<!-- add wfnian -->
-{% for repo in sorted_repos %}
-<div class="col s12 m6 l4" {% if repo.fork %}id="forked"{% endif %}>
+<!-- 纪念与祭奠 -->
+
+
+<div class="col s12 m6 l4">
   <div class="card hoverable">
     <div class="card-image waves-effect waves-block waves-light geopattern activator" data-pattern-id="{{repo.name}}">
-      <i class="material-icons waves-effect waves-block waves-light">more_vert</i>
-      <a class="card-title center-align valign-wrapper" href="{{repo.html_url}}" target="_blank">{{repo.name}}</a>
+      <!-- <i class="material-icons waves-effect waves-block waves-light">more_vert</i> -->
+
+      <a class="card-title center-align valign-wrapper" href="http://zhihu.com/people/wfnian" target="_blank"
+        style="background-image: linear-gradient(120deg, #4dad16, #4dad16)">微信公众号</a>
     </div>
     <div class="card-content valign-wrapper center-align activator">
-      <span class="activator grey-text text-darken-1">{{repo.description}}</span>
-    </div>
-    <div class="card-reveal">
-      <div class="card-reveal-content">
-        <span class="card-title grey-text text-darken-4">Statistics<i class="material-icons right">close</i></span>
-        <span class="tooltipped" data-position="bottom" data-delay="30" data-tooltip="{{repo.stargazers_count}} stars">
-          <i class="material-icons">star</i>
-          {{repo.stargazers_count}}
-        </span>
-        <span class="tooltipped" data-position="bottom" data-delay="30" data-tooltip="{{repo.forks_count}} forks">
-          <i class="material-icons">call_split</i>
-          {{repo.forks_count}}
-        </span>
-        <span class="tooltipped" data-position="bottom" data-delay="30" data-tooltip="Last updated：{{repo.updated_at}}">
-          <i class="material-icons">access_time</i>
-          <time datetime="{{repo.updated_at}}" title="{{repo.updated_at}}">{{repo.updated_at | date: '%Y-%m-%d'}}</time>
-        </span>
-      </div>
+      <span class="activator grey-text text-darken-1">此生尽兴，赤诚善良</span>
     </div>
   </div>
 </div>
-{% endfor %}
+<!-- add 微信公众号 -->
+
+
+
+<div class="col s12 m6 l4">
+  <div class="card hoverable">
+    <div class="card-image waves-effect waves-block waves-light geopattern activator" data-pattern-id="{{repo.name}}">
+      <!-- <i class="material-icons waves-effect waves-block waves-light">more_vert</i> -->
+
+      <a class="card-title center-align valign-wrapper" href="http://zhihu.com/people/wfnian" target="_blank"
+        style="background-image: linear-gradient(60deg, #4aa1f3, #9ccbf6)">Twitter(推特)</a>
+    </div>
+    <div class="card-content valign-wrapper center-align activator">
+      <span class="activator grey-text text-darken-1">要做一个，一人之下万人之上的赵高</span>
+    </div>
+  </div>
+</div>
+<!-- add 推特 -->
+
+<!--  -->
+<div class="col s12 m6 l4">
+  <div class="card hoverable">
+    <div class="card-image waves-effect waves-block waves-light geopattern activator" data-pattern-id="{{repo.name}}">
+      <!-- <i class="material-icons waves-effect waves-block waves-light">more_vert</i> -->
+
+      <a class="card-title center-align valign-wrapper" href="http://zhihu.com/people/wfnian" target="_blank"
+        style="background-image: linear-gradient(120deg, #0084ff, #0349bb)">知乎</a>
+    </div>
+    <div class="card-content valign-wrapper center-align activator">
+      <span class="activator grey-text text-darken-1">甘肃是一个星星很多的地方，伸出手去，便是银河。</span>
+    </div>
+  </div>
+</div>
+<!-- add 知乎 -->
+
+<!-- add wfnian -->
+<div class="col s12 m6 l4">
+  <div class="card hoverable">
+    <div class="card-image waves-effect waves-block waves-light geopattern activator" data-pattern-id="{{repo.name}}">
+      <!-- <i class="material-icons waves-effect waves-block waves-light">more_vert</i> -->
+
+      <a class="card-title center-align valign-wrapper" href="http://wfnian.top" target="_blank"
+        style="background-image: linear-gradient(90deg, #24292e, #999999)">GitHub</a>
+    </div>
+    <div class="card-content valign-wrapper center-align activator">
+      <span class="activator grey-text text-darken-1">"道阻且长，行则将至"</span>
+    </div>
+  </div>
+</div>
+<!-- add github -->
+
+<div class="col s12 m6 l4">
+  <div class="card hoverable">
+    <div class="card-image waves-effect waves-block waves-light geopattern activator" data-pattern-id="{{repo.name}}">
+      <!-- <i class="material-icons waves-effect waves-block waves-light">more_vert</i> -->
+
+      <a class="card-title center-align valign-wrapper" href="http://zhihu.com/people/wfnian" target="_blank"
+        style="background-image: linear-gradient(60deg, #f1a11a, #000000)">LeetCode(力扣)</a>
+    </div>
+    <div class="card-content valign-wrapper center-align activator">
+      <span class="activator grey-text text-darken-1">come watch TV.</span>
+    </div>
+  </div>
+</div>
+<!-- add leetcode -->
