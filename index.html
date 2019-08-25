@@ -3,6 +3,10 @@ layout: page
 css: ["index.css"]
 ---
 <div class="row">
+  <script>
+    var ua = navigator.userAgent.toLowerCase();
+    if (ua.match(/tencenttraveler/) != null || ua.match(/qqbrowse/) != null)
+      alert("如果使用QQ浏览器会出现乱码情况，请换其他浏览器ex:系统自带浏览器 via Chrome Safari Firefox等");</script>
   {% for post in paginator.posts %}
   <div class="col s12">
     <div class="card hoverable">
