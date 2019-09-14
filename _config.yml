@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: wfnian
 description: > # this means to ignore newlines until "baseurl:"
-  随意搭建 <a href="http://cutezeng.top">by wfnian</a>.点击左上角"☰"查看更多.
+  随意搭建 <a href="http://xzeng.top">by wfnian</a>.点击左上角"☰"查看更多.
 baseurl: ""
 url: "https://xzeng.top/"
 permalink: /:year/:month/:day/:title
@@ -24,10 +24,8 @@ paginate: 5
 
 # MatJek specific configurations
 github_profile: "https://github.com/wfnian"
-user: "王方年"
+user: "wfnian"
 user_email: "wfnian@gmail.com"
-google_tracking_id: "UA-96359860-1"
-google_site_verification: "UA-96359860-1"
 
 # Build settings
 markdown: kramdown
