@@ -3,6 +3,6 @@ $(document).ready(function(){
   $("#js-rotating").Morphext({
     animation: "rubberBand",
     separator: ",",
-    speed: 2000
+    speed: 3000
   });
 });
