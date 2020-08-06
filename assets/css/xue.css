@@ -1,0 +1,23 @@
+html{
+    color: rgba(90,90,90,0.87);
+    line-height: 1.7;
+    font-size: 17px;
+}
+.s-index{
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    color: #009688;
+    text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: -5px;
+}
+
+.s-title{
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+}
+.s-content{
+    text-indent: 32px;
+}

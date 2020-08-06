@@ -7,6 +7,7 @@
     <meta name="theme-color" content="#EEB422">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="icon" href="../ico.ico" type="image/x-icon" />
+    <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
 </head>
 
 <body>
@@ -24,24 +25,14 @@
                 <script>
                     function login1() {
                         var pass = document.getElementById("password");
-                        var p = pass.value;
-                        var t = "//:sptth";
-                        var g = "github.io";
                         if (pass.value == "") {
                             alert("不对");
                         }
-                        if (p.length != 4) {
+                        if (pass.value.length != 4) {
                             alert("不对不对");
                         }
-                        else if ((parseInt(p.charAt(0)) == 0 && parseInt(p.charAt(1)) == 8)) {
-                            if (parseInt(p.charAt(2)) - parseInt(p.charAt(3)) == 2) {
-
-                                t = t.split("").reverse().join("");
-                                var go = t + "xzeng.top";
-                                window.location.href = go;
-                            } else {
-                                alert("不对不对");
-                            }
+                        else if (md5(pass.value) == 'e833e042f509c996b1b25324d56659fb') {
+                            window.location.href = "/project/shmily?" + md5(pass.value);
                         }
                         else {
                             alert("不对，密码不对")
@@ -50,16 +41,12 @@
                 </script>
                 <div id="login_frame">
                     <form method="post">
-
-                        <p style="display: none"><label class="label_input">《你的名字》</label><input type="text"
-                                id="username" class="text_field" /></p>
-                        <p><label class="label_input"> 密码可能是什么呢 </label><input type="password" id="password"
+                        <p><label class="label_input"> 您需要输入密码方可进入 </label><input type="password" id="password"
                                 class="text_field" />
                         </p>
-
                         <div id="login_control">
                             <input type="button" id="btn_login" value="进入" onclick="login1();" />
-                            <a id="forget_pwd" href="https://www.baidu.com">对此有疑问?</a>
+                            <a id="forget_pwd" href="https://www.baidu.com">没有密码？</a>
                         </div>
                     </form>
                 </div>
@@ -70,10 +57,10 @@
                         padding: 10px;
                         left: 50%;
                         top: 50%;
-                        background-image: linear-gradient(253deg, #FFE935, #ec227e);
+                        background-image: linear-gradient(253deg, #efae26, #f50606);
                         border-radius: 0px;
                         text-align: center;
-                        box-shadow: 4px 4px 3px;
+                        box-shadow: 4px 4px 3px #aaa;
                         margin: auto;
                         margin-top: 20px;
                     }
@@ -123,7 +110,7 @@
                         color: #fff;
                         text-align: center;
                         background-color: #5947f5;
-                        background-image: linear-gradient(120deg, #ffe808, #34c043);
+                        background-image: linear-gradient(120deg, #efae26, #f50606);
                     }
 
                     @media screen and (min-width: 64em) {
@@ -160,10 +147,9 @@
                     }
 
                     #forget_pwd {
-                        /* font-size: 14px; */
+                        
                         color: rgb(7, 38, 216);
-                        /* text-decoration: underline; */
-                        /* position: relative; */
+
                         float: right;
                         top: 5px;
                         font-size: 14px;
@@ -173,7 +159,6 @@
                         line-height: 28px;
                         text-align: center;
                         box-shadow: 4px 4px 3px 0px #484848;
-                        /* color: white; */
                         background-color: rgb(226, 164, 188);
                         border-radius: 6px;
                         border: 0;
