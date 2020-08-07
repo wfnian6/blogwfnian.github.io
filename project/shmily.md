@@ -3,6 +3,13 @@ layout: default
 css: ["about.css", "animate.css", "morphext.css","xue.css"]
 ---
 
+<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
+<script>
+    function load() { if(md5(location.href.split('?')[1])!="e833e042f509c996b1b25324d56659fb") 
+    window.location.href="http://www.baidu.com"}
+</script>
+<body onload="load()"></body>
+
 
 <center>
 <b>
@@ -20,6 +27,17 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <p class="s-content">薄暮逝，深宵寒</p>
 
+
+
+<div class="s-index">01</div>
+<div class="s-title">日记一则</div>
+
+<p class="s-content">我以为我对你的回忆渐渐地被时间揩去，于是打算就让它在这个角落里慢慢堆满时间的灰尘，然后在我某个不经意想起来的瞬间再轻轻掸去，那时，一切如初。可是，你再次出现了。</p>
+
+<div class="s-index">02</div>
+<div class="s-title">日记一则</div>
+
+<p class="s-content">七八年过去了，四五年不见了，我想当初那份固执地单方面喜欢早已被冲淡，后来我在霸陵桥旁边看见你的背影，回忆像潮水般涌来，<b>回忆有一千个风景，一个比一个美，可是回不去，所以一个比一个模糊</b>，一幕似一箭，万幕顾穿心，我想逃缺无能为力。那时公园里正放着一首烂大街的歌：《相逢是首歌》，嘛，真是的——</p>
 
 
 <div class="s-index">02</div>
@@ -70,4 +88,6 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">22</div>
 <div class="s-title">致谢</div>
-<p class="s-content">在最后，谢谢你，浪费时间看完我这毫无头绪的碎碎念，另外，文末，我想对我的两位朋友以及洋姐姐说一句， <b>你们仨真的实在是太烦了，太吵了，混蛋。</b> </p>
+<p class="s-content">在最后，谢谢你，浪费时间看完我这毫无头绪的碎碎念，另外，文末，我想对我的两位朋友以及洋姐姐说一句， <b>你们仨真的实在是太烦了，太吵了，混蛋。</b> <div align="center"><img width="300px" src="https://pic.downk.cc/item/5f2ca0d914195aa594b35c62.jpg"></div></p>
+
+

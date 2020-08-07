@@ -2,6 +2,10 @@
 layout: page
 css: ["about.css", "animate.css", "morphext.css","materialize.min.css"]
 ---
+<script>
+    function load() { if(location.href.split('?')[1]!="fffa") window.location.href="http://www.baidu.com"}
+</script>
+<body onload="load()">
 
 <div class="col s12">
     <div class="card hoverable">
@@ -37,3 +41,5 @@ css: ["about.css", "animate.css", "morphext.css","materialize.min.css"]
         根据相关法律法规，不再显示此页内容。
       </div>
 </div>
+
+</body>
