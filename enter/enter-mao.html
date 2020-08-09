@@ -7,7 +7,6 @@
     <meta name="theme-color" content="#EEB422">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="icon" href="../ico.ico" type="image/x-icon" />
-    <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
 </head>
 
 <body>
@@ -25,18 +24,9 @@
                 <script>
                     function login1() {
                         var pass = document.getElementById("password");
-                        if (pass.value == "") {
-                            alert("不对");
-                        }
-                        else if (pass.value.length != 4) {
-                            alert("不对不对");
-                        }
-                        else if (md5(pass.value) == 'e79fd41bdf2a8d7a72b0439246c9ba6f') {
-                            window.location.href = "/project/shmily?" + md5(pass.value);
-                        }
-                        else {
-                            alert("不对，密码不对")
-                        }
+                            window.location.href = "/project/mao?" + (pass.value);
+                        
+                        
                     }
                 </script>
                 <div id="login_frame">
