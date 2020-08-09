@@ -28,10 +28,10 @@
                         if (pass.value == "") {
                             alert("不对");
                         }
-                        if (pass.value.length != 4) {
+                        else if (pass.value.length != 4) {
                             alert("不对不对");
                         }
-                        else if (md5(pass.value) == 'e833e042f509c996b1b25324d56659fb') {
+                        else if (md5(pass.value) == 'e79fd41bdf2a8d7a72b0439246c9ba6f') {
                             window.location.href = "/project/shmily?" + md5(pass.value);
                         }
                         else {
