@@ -116,7 +116,9 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">19</div>
 <div class="s-title">写在最后</div>
-<p class="s-content">有一天晚上雨过天晴那日晚上我穿行于一中放学的人海中，或许那时的我也如同现在里面的某一位一样，目光在匆匆寻找一位背着红色书包的姑娘。</p>
+<p class="s-content">有一天晚上雨过天晴，我拍下了两张极美的夕阳照，有那么一瞬间，我想发给你，在打开聊天界面做了短暂的停留后，我把它们发给了舍友们。</p><p class="s-content">
+
+那日晚上我穿行于一中放学的人海中，或许那时的我也如同现在里面的某一位一样，目光在匆匆寻找一位背着红色书包的姑娘。</p>
 
 <div class="s-index">20</div>
 <div class="s-title">写在最后</div>
