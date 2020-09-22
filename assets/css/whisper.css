@@ -1,0 +1,13 @@
+p.pp{
+    text-align: left;
+    text-indent: 2em;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: #cccccc;
+    background: #f8f8f8;
+    box-shadow: #e5e5e5 -1px 5px 7px;
+    letter-spacing: 1.5px;
+    padding: 1em;
+    color: #3f3e3f;
+    box-sizing: border-box;
+}
