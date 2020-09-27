@@ -71,6 +71,15 @@ css: ["about.css", "animate.css", "morphext.css","materialize.min.css"]
 </div>
 
 <div class="col s12">
+    <div class="card hoverable">
+        <div class="card-content" style="font-size:20px;text-align:center;margin:-5px">六朝何事</div>
+        <div class="card-action" style="text-align:center;margin:5px">
+            <a href="juan8"> 阅读更多 </a>
+        </div>
+      </div>
+</div>
+
+<div class="col s12">
     <div class="card hoverable" style="text-align:center;color:#aaa">
         根据相关法律法规，不再显示此页内容。
       </div>
