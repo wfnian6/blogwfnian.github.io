@@ -33,9 +33,9 @@ css: ["whisper.css"]
 <p class='pp'> 2020.10.14 拿到了神乐斗技皮肤，啊啊啊啊太好看了太好看了，太太太好看了，嗯开心指数⭐⭐⭐⭐⭐⭐</p>
 <p class='pp'> 2020.10.16 读完了美国人写的《毛泽东传》，并对作者的一些观点予以否认，总体来讲这本书写的并不太好，但也有收获。⭐⭐⭐</p>
 <p class='pp'> 2020.10.19 体检复查过来，真是的，什么高血压，那叫紧张，开心指数⭐⭐⭐</p>
+<p class='pp'> 说来也奇怪，近一个月连续好几次梦见高中时暗恋的姑娘，或许是夏天的时候见了两次，或许是太怀旧，咳，放不下的终究放不下。</p>
 
 
 
 
 <img src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png">
-<img width="100%" src="https://pic.downk.cc/item/5f8d3c911cd1bbb86b97f90e.jpg">
