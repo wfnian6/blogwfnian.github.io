@@ -24,7 +24,13 @@
                 <script>
                     function login1() {
                         var pass = document.getElementById("password");
+
+                        if (md5(pass.value) == '4a7d1ed414474e4033ac29ccb8653d9b') {
                             window.location.href = "/workspace/mao/mao?" + (pass.value);
+                        }
+                        else {
+                            alert("公开来不大好。")
+                        }
                     }
                 </script>
                 <div id="login_frame">
@@ -128,14 +134,14 @@
                         text-align: center;
                         box-shadow: 4px 4px 3px 0px #484848;
                         color: white;
-                        background-color:#808080;
+                        background-color: #808080;
                         border-radius: 6px;
                         border: 0;
                         float: left;
                     }
 
                     #forget_pwd {
-                        
+
                         color: rgb(7, 38, 216);
 
                         float: right;
@@ -147,7 +153,7 @@
                         line-height: 28px;
                         text-align: center;
                         box-shadow: 4px 4px 3px 0px #484848;
-                        background-color:#808080;
+                        background-color: #808080;
                         border-radius: 6px;
                         border: 0;
                         float: right;
