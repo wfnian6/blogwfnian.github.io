@@ -25,17 +25,11 @@
                 <script>
                     function login1() {
                         var pass = document.getElementById("password");
-                        if (pass.value == "") {
-                            alert("不对");
-                        }
-                        if (pass.value.length != 4) {
-                            alert("不对不对");
-                        }
-                        else if (md5(pass.value) == 'e833e042f509c996b1b25324d56659fb') {
+                        if (md5(pass.value) == 'e833e042f509c996b1b25324d56659fb') {
                             window.location.href = "/workspace/shmily?" + (pass.value);
                         }
                         else {
-                            alert("不对，密码不对")
+                            alert("大兄弟，这需要密码啊。💢")
                         }
                     }
                 </script>
