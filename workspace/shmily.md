@@ -44,7 +44,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">06</div>
 <div class="s-title">穷极一生</div>
-<p class="s-content">我这一生都在追赶比我优秀的存在，比如你。我眼中你如此精彩耀眼，如同我平淡岁月中的太阳一般。我喜欢太阳，就如同那些叽哩哇啦的小虫子一般，可有时阳光太刺眼，我就不自觉躲开了，可我还是向往光，我竭力追逐这番优秀，我总幻想考试考场会变成同一个，可也说来奇怪，我在二考场时你在一或三，我在三时，你在一或二，从来没有在一起过，除了高一。</p>
+<p class="s-content">我这一生都在追赶比我优秀的存在，比如你。我眼中你如此精彩耀眼，如同我平淡岁月中的太阳一般。我喜欢太阳，就如同那些叽哩哇啦的小虫子一般，可有时阳光太刺眼，我就不自觉躲开了，可我还是向往光，我竭力追逐这番优秀，只因神往。</p>
 
 
 <div class="s-index">07</div>
@@ -118,7 +118,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">20</div>
 <div class="s-title">写在最后</div>
-<p class="s-content">我只是觉得在有些时刻，我能感觉得到我再错过什么，失去什么，而他们对于我来说，是生命中十分美好又动人的时刻。 </p>
+<p class="s-content">我只是觉得在有些时刻，我能感觉得到我在错过什么，失去什么，而这些对于我来说，是生命中十分美好又动人的时刻。 </p>
 
 <div class="s-index">20</div>
 <div class="s-title">写在最后</div>
