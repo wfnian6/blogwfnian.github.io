@@ -48,6 +48,7 @@ css: ["whisper.css"]
 <p class='pp'>今天就是立冬了，你看，距离回家的时间有近了一天。<img src="https://pic.downk.cc/item/5fa632811cd1bbb86bdd8c5e.jpg"></p>
 <p class='pp'>不能再喝奶茶和吃甜的东西了，（蜂蜜除外<img  width="60px" src="https://pic.downk.cc/item/5fa790911cd1bbb86b2c2214.jpg">）</p>
 <p class='pp'>呵，unity3d，闪退，一早上的文件没存，强👍。。。噢，电脑是i78750H+16G内存+500G内存+1060 6G显卡。我的问题<img  width="80px" src="https://pic.downk.cc/item/5fa9010d1cd1bbb86b792535.png"></p>
+<p class='pp'>这种感觉是啥嘞，我也不大清楚了，大概是时间沉淀下来的回忆又经过一番痛楚的回放扒下来贴给了另外一个时间点上的人和物，使得今天和过去看起来像是无缝衔接上了。</p>
 
 
 
