@@ -7,10 +7,6 @@ css: ["whisper.css"]
 <p class='pp'>我发现每天的清晨变得像黄昏，所有的事物都像在夕阳底下一样模糊，带着阴影，黄昏变得越来越迟，越来越黑，最后，我就看不见了。 </p>  
 
 
-
-<p class='pp'><img src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png"></p>  
-
-
 <p class='pp'>我骑着车子在县城里逛，一个声音告诉我，遇到红灯就右转，后来，我迷路了</p>
 <p class='pp'>一幕烟霞一人家 2020.8.8</p>
 <p class='pp'>哦，应当说，好久不见！</p>
@@ -55,6 +51,7 @@ css: ["whisper.css"]
 <p class='pp'>在人民心中，像多益网络这样的公司早已入了<b>另册</b>(参见《毛泽东选集》第一卷《湖南农民运动考察报告》)，也总有一天，那些被暗示自降月薪的人，会站在他们的头顶，说一句：<b>“劣绅！今天认得我们！”</b></p>
 <p class='pp'>大风起兮云飞扬，安得猛士兮走四方！</p>
 <p class='pp'>这会可真是瞎猫碰到死耗子了，我不喜欢出众，不想被称之为“大佬”，只想做一个容易被忽略掉的不存在一般地，无名宵小之辈。</p>
+<p class='pp'>初闻不知区中意，再听已是曲中人。说的就是《国际歌》<img src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png"></p>
 
 
 
