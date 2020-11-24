@@ -16,7 +16,7 @@ css: ["about.css", "animate.css", "morphext.css","materialize.min.css"]
       </div>
 </div>
 
-<div class="col s12">
+<!-- <div class="col s12">
     <div class="card hoverable">
         <div class="card-content" style="font-size:20px;text-align:center;margin:-5px">毛泽东选集第二卷</div>
         <div class="card-action" style="text-align:center;margin:5px">
@@ -41,7 +41,7 @@ css: ["about.css", "animate.css", "morphext.css","materialize.min.css"]
             <a href="juan4"> 阅读更多 </a>
         </div>
       </div>
-</div>
+</div> -->
 
 <div class="col s12">
     <div class="card hoverable">
