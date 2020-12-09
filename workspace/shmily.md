@@ -64,7 +64,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">07</div>
 <div class="s-title">爱屋及乌</div>
-<p class="s-content">爱屋及乌在感情方面也有可能是一种病态的表现。说来也是可笑，我曾见你乒乓球赛场上的种种，也曾见你在大礼堂里抱着一本红楼梦时的痴迷，而后来这两件事情却成了发展成了我的业余喜好。于是周五的晚上、体育课上便是我《乒乓球从入门到放弃》的时间段  <a href="./endORstrat#2" style="color: #3794ff">[2]</a>，而晚上偷偷打着灯抱着一本读了两遍都没怎么读懂的红楼，以至于我常常在想现在的我如果能穿越回七八年，告诉那个少年："前些日子和她第一次说话、前些日子和她在一起打你最想打的乒乓球"，想必，不同时空的两个我，嘴角都会微微上扬吧。</p>
+<p class="s-content">爱屋及乌在感情方面也有可能是一种病态的表现。说来也是可笑，我曾见你乒乓球赛场上样子，也曾见你在大礼堂里抱着一本红楼梦时的样子，而后来这两件事情却成了发展成了我的业余喜好。于是周五的晚上、体育课上便是我《乒乓球从入门到放弃》的时间段  <a href="./endORstrat#2" style="color: #3794ff">[2]</a>，而晚上偷偷打着灯抱着一本读了两遍都没怎么读懂的红楼，以至于我常常在想现在的我如果能穿越回七八年，告诉多年前的自己："前些日子和她第一次说话、前些日子和她在一起打你最想打的乒乓球"，想必，不同时空的两个我，嘴角都会微微上扬吧。</p>
 
 
 
@@ -153,11 +153,12 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 
 <div class="divider"></div>
-<a href="" style="color: #3794ff;!important;padding:3px"> (2020/8/6)更新 </a>
-<a href="" style="color: #3794ff;!important;padding:3px"> (2020/8/9)更新 </a>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/8/16)更新</a>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/8/24)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/06)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/09)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/16)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/24)更新</a>
 <a href="" style="color: #3794ff;!important;padding:3px">(2020/10/20)更新</a>
 <a href="" style="color: #3794ff;!important;padding:3px">(2020/11/19)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/12/05)更新</a>
 
 

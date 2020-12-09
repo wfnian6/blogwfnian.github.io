@@ -8,6 +8,10 @@
                     <span style="font-size: 15px; letter-spacing: 2px; line-height: 26px;">此小程序初创于本人，源于本人对于游戏《阴阳师》的热爱，面向群体为阴阳师玩家，总之欢迎使用，欢迎提出建议，也欢迎和我一起玩阴阳师，坐标 区：欢庆鼓舞，游戏名：就叫夏梦。
                     </span>
                 </p>
+                <p style="white-space: normal; box-sizing: border-box; letter-spacing: 2px; line-height: 26px; font-size: 15px;">
+                    <span style="font-size: 15px; letter-spacing: 2px; line-height: 26px;">2020年11.27日，访问人数超过1000，开通了流量主
+                    </span>
+                </p>
             </section>
         </section>
     </section>
