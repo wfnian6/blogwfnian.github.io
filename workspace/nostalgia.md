@@ -3,12 +3,7 @@ layout: default
 css: ["about.css", "animate.css", "morphext.css","xue.css"]
 ---
 
-<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
-<script>
-    function load() { if(md5(location.href.split('?')[1])!="e833e042f509c996b1b25324d56659fb") 
-    window.location.href="http://www.baidu.com"}
-</script>
-<body onload="load()"></body>
+
 
 <center style="color:#3794ff">
 <p></p>
