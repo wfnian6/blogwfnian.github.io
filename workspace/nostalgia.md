@@ -118,8 +118,8 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">19</div>
 <div class="s-title">日记一则</div>
-<p class="s-content">有一天晚上雨过天晴，我拍下了两张极美的夕阳照，有那么一瞬间，我想发给你，在打开聊天界面做了短暂的停留后，我把它们发给了舍友们。</p><img width="100%" src="https://pic.downk.cc/item/5fb5df74b18d6271138d786c.jpg"><p class="s-content">
-
+<p class="s-content">有一天晚上雨过天晴，我拍下了两张极美的夕阳照，有那么一瞬间，我想发给你，在打开聊天界面做了短暂的停留后，我把它们发给了舍友们。</p> <img width="100%" src="https://pic.downk.cc/item/5fb5df74b18d6271138d786c.jpg"> 
+<p class="s-content">
 那日晚上我穿行于一中放学的人海中，而我一眼看过去的，都是满目熟悉的人群，熟稔的楼宇，亲切而又陌生。或许那时的我也如同现在里面的某一位一样，目光在匆匆寻找一位背着红色书包的姑娘。期待而又紧张。</p>
 
 
