@@ -14,6 +14,8 @@ css: ["whisper.css"]
 <p class='pp'>昨晚休息的不是很好，原因是复习神经网络技术复习的满脑子都是rnn，ann，自编码（<s>不是这个原因</s>），开学其不久我就决定佛系了，怎么又担心绩点的问题了。还不是他娘的这课竟然会挂科。1.12.</p>  
 <p class='pp'>不过也还好，这也马上到回家的时间了。</p>  
 <p class='pp'>新，时</p>  
+<p class='pp'>我可能不行了。<img src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png"></p>  
+<p class='pp'><a href="https://zhuanlan.zhihu.com/p/23826416" style="color: #1a0dab">“高中政治书说：替代品指能带给人们接近满足度的几种物品之间具有能够相互替代性质的物品。我当时理解为，飞机可以用火车代替，南方可以用大连代替，大学可以用专科代替。成长最快的那几年，遇到的人和事，经历的改变还有阅历和见识都几何般增长着。于是喜好不断地被推翻又重新建立，喜欢的人被更喜欢的人代替。坚持的少，放弃的多，不重要的就是不重要，重要的也没有自己重要。”后来才了解，其实许多重不重要的东西，其实都可以找到相通感受的替代品。</a></p>  
 
 <p class ='pp'><b><a href="./whisper_2020" style="color: #3794ff">上一年2020年</a></b></p>
 
