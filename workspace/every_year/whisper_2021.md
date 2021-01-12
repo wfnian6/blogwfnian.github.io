@@ -13,6 +13,7 @@ css: ["whisper.css"]
 <p class='pp'></p>  
 <p class='pp'>昨晚休息的不是很好，原因是复习神经网络技术复习的满脑子都是rnn，ann，自编码（<s>不是这个原因</s>），开学其不久我就决定佛系了，怎么又担心绩点的问题了。还不是他娘的这课竟然会挂科。1.12.</p>  
 <p class='pp'>不过也还好，这也马上到回家的时间了。</p>  
+<p class='pp'>新，时</p>  
 
 <p class ='pp'><b><a href="./whisper_2020" style="color: #3794ff">上一年2020年</a></b></p>
 
