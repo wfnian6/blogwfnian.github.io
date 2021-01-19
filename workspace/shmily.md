@@ -127,7 +127,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <div class="s-title">日记一则</div>
 <p class="s-content">有一天晚上雨过天晴，我拍下了两张极美的夕阳照，有那么一瞬间，我想发给你，在打开聊天界面做了短暂的停留后，我把它们发给了舍友们。</p><img width="100%" src="https://pic.downk.cc/item/5fb5df74b18d6271138d786c.jpg">  
 <p class="s-content">
-那日晚上我穿行于一中放学的人海中，而我一眼看过去的，都是满目熟悉的人群，熟稔的楼宇，亲切而又陌生。斗转星移的时间里一级又一级的学生，或许那时的我也如同现在里面的某一位一样，目光在匆匆寻找一位背着红色书包的姑娘。期待而又紧张。</p>
+那日晚上我穿行于一中放学的人海中，而我一眼看过去的，都是满目熟悉的人群，熟稔的楼宇，亲切而又陌生。或许那时的我也如同现在里面的某一位一样，目光在匆匆寻找一位背着红色书包的姑娘。期待而又紧张。</p>
 
 
 
@@ -136,17 +136,23 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <p class="s-content">时间过得可真快，冬天就来了，原来记忆也会随着季节更迭而发生变换，此时的我开始回忆起很多年前的冬天，那时的你会穿着浅蓝色的外套，橘黄色的羽绒服……像我这样人，大抵是不存在青春的，若要非加一个，那所谓的我的青春，是所有关于你的回忆伴随着那无关痛痒的高中生活，还有所有关于你的记忆碎片里拼合起来的日出日落。而这些年来北京的冬天的风很大，我总喜欢用北京的风甚至比冬天老君山顶背阳处的风还大，还冷做比较来给家人一年又一年地形容这风，形容了五年了，词汇匮乏的我实在找不出更好的比较了。白杨树的叶子几天的时间内哗哗地掉了一地，总会有一阵阵关于想念的风，会把掉在地上的它们又吹起来，吹到空中，飘着，旋转。</p>
 
 
-<div class="s-index">20</div>
+<div class="s-index">21</div>
 <div class="s-title">姚同学，你好哇</div>
 <p class="s-content">那个QQ群依然热闹，里面的人们一如既往地热烈讨论着游戏，讨论着生活，讨论着我。其实大多数的时候我依然会想起你来，例如晨起时第一缕阳光刺破窗格时，例如微凉夜幕下看到相似的熟悉背影时，例如秋风打落的叶子恰好掉到我肩膀时……我都会想到曾有这样一位姑娘，而在有些时刻，我能感觉得到我在错过什么，失去什么，而这些对于我来说，是生命中十分美好又动人的时刻。 </p>
 
-<div class="s-index">20</div>
+<div class="s-index">22</div>
+<div class="s-title">写在最后</div>
+<p class="s-content">我可能真是个不善于表达感情的人。嗨呀，其实我自己也震撼于自己高中喜欢你的那些日子，还有阔别已久再次见你后这些日子里又将你放在心中第一位的感觉1。朋友说喜欢要主动，主动联系，我也实在找不到和你聊天合适的借口，蹩脚的知乎回答上撩别人的套路令人嫌弃，而我也仅仅满足于给你的朋友圈点赞，或者逛逛空间看看而已。
+姚同学，我觉得我和你在一起的概率可能比我中彩票的概率都要小了，这就导致我清楚的认识到表白就是失败，而失败就是人生常态，这些年了，我也早已习惯这些。</p>
+
+<p class="s-content">他们又说，事情其实很简单，其实就是我要试着放下，而你仅需要知道即可。换个角度，想一想确实是这样。可能这就是局外人自有的优点吧。</p>
+<div class="s-index">23</div>
 <div class="s-title">写在最后</div>
 <p class="s-content">准备了很久想说的一句喜欢你终于在七八年后的今日说出了口，不论结局如何，都是了了一个多年的执念，正好《老男孩》这首歌下架了，我也不用再听那首歌了，那首歌快不成立了。朋友们说，回首过往，留下来的，只有骄傲。 </p>
 
-<div class="s-index">21</div>
+<div class="s-index">24</div>
 <div class="s-title">致谢与致歉</div>
-<p class="s-content">希望你永远这么好看，永远如此可爱阳光。在最后，谢谢你，浪费时间看完我这毫无头绪的时间线以及极其糟糕的胡言乱语。另外，文末，我想对我的两位大学舍友以及洋姐说一句， 谢谢你们。也感谢研究生舍友们的鼓励还有没的用上的馊主意。</p>
+<p class="s-content">希望你永远这么漂亮，永远如此可爱阳光。在最后，谢谢你，浪费时间看完我这毫无头绪的时间线以及极其糟糕的胡言乱语。另外，文末，我想对我的两位大学舍友以及洋姐说一句， 谢谢你们。也感谢研究生舍友们的鼓励还有没的用上的馊主意。</p>
 <p class="s-content">
 
 同时呢也要为我今日的唐突向你致歉<a href="./annex#2" style="color: #3794ff">[1]</a>，对不起，实在是抱歉，我存了一些关于你的照片，一直留在相册里，静静地和时间一起躺着。绝大多大抵都是这些年来从洋姐和甘卉他们的朋友圈里偷偷存下来的，未经你的允许，可能这是一个糟糕的习惯，如果介意的话，我会删了的。</p>
@@ -156,13 +162,13 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 
 <div class="divider"></div>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/06)更新</a>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/09)更新</a>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/16)更新</a>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/24)更新</a>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/10/20)更新</a>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/11/19)更新</a>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/12/05)更新</a>
-<a href="" style="color: #3794ff;!important;padding:3px">(2020/12/22)更新</a>
+<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/08/06)更新</a>
+<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/08/09)更新</a>
+<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/08/16)更新</a>
+<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/08/24)更新</a>
+<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/10/20)更新</a>
+<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/11/19)更新</a>
+<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/12/05)更新</a>
+<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/12/22)更新</a>
 
 
