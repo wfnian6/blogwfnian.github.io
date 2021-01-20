@@ -22,3 +22,4 @@ css: ["whisper.css"]
 <p class ='pp'>妈的，好甜，我被暖到了。<img width="60%" src="https://img.imgdb.cn/item/6000f7733ffa7d37b3130aef.jpg"></p>
 <p class ='pp'>啊，每天早上一碗烫豆浆，滚烫的暖流滑入干涩的胃囊，豆子的馨香淹没整个胸腔，整个清晨都变得无比激昂（啧啧啧，有朱广权那味儿了）</p>
 <p class ='pp'>感动到哭泣，我的神经网络技术竟然是A-，最优化也是A-。哭了，当初复习的那叫一个累。<img src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon25.png">好了好了，不是说了研究生目的是来混毕业的嘛。</p>
+<p class ='pp'><s>俄日</s>(划掉不能骂人)，再不让走机票我买不起了，火车票抢不到了。woccccccccccccccccccc</p>
