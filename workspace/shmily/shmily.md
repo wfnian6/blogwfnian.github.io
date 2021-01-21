@@ -168,4 +168,9 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/12/05)更新</a>
 <a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/12/22)更新</a>
 
+<div class="divider"></div>
+
+<p class="s-footer">
+* 本文原名《十七与剑与家园》，自发出后，只剩家园。
+</p>
 
