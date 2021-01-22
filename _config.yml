@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: wfnian
 description: > # this means to ignore newlines until "baseurl:"
-  <b>点击左上"☰"菜单查看更多.</b><a href="http://wfnian.com">set up by wfnian</a>.
+  <b>点击左上"☰"菜单或者轻滑屏幕左边缘查看更多.</b>.
 baseurl: ""
 url: "https://wfnian.com/"
 permalink: /:year/:month/:day/:title
