@@ -39,3 +39,15 @@ css: ["about.css", "animate.css", "whisper.css","xue.css"]
 
 <p class="pp">
 </p>
+
+##### 7.
+
+<p class="pp">
+此处原为长剑，避开剑，后改删，改长锏
+</p>
+
+##### 8.
+
+<p class="pp">
+见<a href="https://www.zhihu.com/question/321260611/answer/1621565937" style="color: #1a0dab"> 你的暗恋最终表白了吗?</a>评论区，原本有➋，后改删。
+</p>
