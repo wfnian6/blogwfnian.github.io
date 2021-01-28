@@ -1,7 +1,7 @@
 html{
     color: rgba(90,90,90,0.87);
     line-height: 1.7;
-    font-size: 17px;
+    font-size: 18px;
 }
 .s-index{
     text-align: center;
@@ -20,6 +20,7 @@ html{
 }
 .s-content{
     text-indent: 32px;
+    text-align: justify;
 }
 .s-footer{
     font-size: 12px;
