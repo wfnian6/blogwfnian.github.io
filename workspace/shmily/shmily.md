@@ -22,7 +22,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <div class="s-index">01</div>
 <div class="s-title">好久不见</div>
 
-<p class="s-content">转眼四五年，不知该说些什么，总之，我要向你说一句：好久不见！</p>
+<p class="s-content">转眼四五年，不知该说些什么，总之，要向你说一句：好久不见~</p>
 
 
 <div class="s-index">02</div>
