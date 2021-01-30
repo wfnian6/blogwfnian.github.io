@@ -12,6 +12,10 @@
                     <span style="font-size: 15px; letter-spacing: 2px; line-height: 26px;">2020年11.27日，访问人数超过1000，开通了流量主
                     </span>
                 </p>
+                <p style="white-space: normal; box-sizing: border-box; letter-spacing: 2px; line-height: 26px; font-size: 15px;">
+                    <span style="font-size: 15px; letter-spacing: 2px; line-height: 26px;">最近有用户建议添加新功能月见黑的记录，做起来应该不难，问题在于布局不太好设计，程序逻辑很好办，啊这应该就是最后一个功能了，以后我就不做这个更新了，至于流量主每月收入微薄，也和我仅仅推广了QQ好友，知乎和豆瓣三个小型社交圈有关，由小到大的过程中功能逐步完善，页面逐步美观，若是不出意外，最后的终极推广地是贴吧，这里的用户有213w，还得考虑会不会崩，图床会不会挂了。微信小程序又有16M限制，并且阴阳师图鉴越来越多等都是问题。
+                    </span>
+                </p>
             </section>
         </section>
     </section>
