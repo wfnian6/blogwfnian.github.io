@@ -3,12 +3,7 @@ layout: default
 css: ["about.css", "animate.css", "morphext.css","xue.css"]
 ---
 
-<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
-<script>
-    function load() { if(md5(location.href.split('?')[1])!="e833e042f509c996b1b25324d56659fb") 
-    window.location.href="http://www.baidu.com"}
-</script>
-<body onload="load()"></body>
+
 
 <center style="color:#3794ff">
 <p></p>
@@ -74,7 +69,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">09</div>
 <div class="s-title">不曾说出口的秘密</div>
-<p class="s-content">我曾烧红了一把铁印，将你的一切烙在心底，你的背影，你束起的头发，你喊我时的场景，你高中打乒乓球时的场景，你抱着一本《红楼梦》时的场景，所有我能记下来的关于你的一切…… 却又像一个情报人员一样不曾将这个名字说出口，上了锁扔了钥匙并牢牢放在心中。在多年以后的今天当我借助文字表示当年那种情景的时候，我依然能够感受到当初那种，害怕又期待，无奈又有点痒痒的感觉，这种感觉混杂了运动会时一遍又一遍循环着的进行曲，课外活动时间操场跑道的不算好闻却令人回忆的橡胶味道，还有春荷语文课上朗朗书声下的昏昏的睡意，有那么些逼真，有那么些陌生。</p>
+<p class="s-content">高中生活什么也没留下，烙在心底的是你的背影，你束起的头发，你喊我时的场景，你高中打乒乓球时的场景，你抱着一本《红楼梦》时的场景，所有我能记下来的关于你的一切…… 却又像一个情报人员一样不曾将这个名字说出口，上了锁扔了钥匙并牢牢放在心中。在多年以后的今天当我借助文字表示当年那种情景的时候，我依然能够感受到当初那种，害怕又期待，无奈又有点痒痒的感觉，这种感觉混杂了运动会时一遍又一遍循环着的进行曲，课外活动时间操场跑道的不算好闻却令人回忆的橡胶味道，还有春荷语文课上朗朗书声下的昏昏的睡意，有那么些逼真，有那么些陌生。</p>
 
 <div class="s-index">10</div>
 <div class="s-title">日记一则</div>
@@ -179,5 +174,8 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 </p>
 <p class="s-footer">
 * 本文暂定于2021年1月末尾发出。
+</p>
+<p class="s-footer">
+* 加粗部分非原创。
 </p>
 
