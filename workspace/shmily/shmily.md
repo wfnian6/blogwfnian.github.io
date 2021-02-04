@@ -10,8 +10,8 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 </script>
 <body onload="load()"></body>
 
-<center style="color:#3794ff">
-<p></p>
+<center >
+<h1 style="text-shadow:0px 1px 1px #3c3232;font-size:1.6rem;margin-bottom: 6px;font-weight:bold;">十七与剑与家园</h1>
 <a href="" style="color: #3794ff;!important">(2020/8/6)</a>
 <p></p>
 </center>
@@ -70,7 +70,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">08</div>
 <div class="s-title">深刻的记忆</div>
-<p class="s-content">2014年的冬天，最后一个星期四的那个下午的课外活动时间。冬日的阳光穿过办公楼顶也穿过窗帘缝隙打落在樫鸟蓝与粉白交织的墙面，给人一种慵懒的感觉，那是我听见你第一次喊我的名字<a href="./annex#15" style="color: #3794ff">[15]</a>，可能这个时间这辈子也忘不了吧，<b>能在校园里远远地看见一个她的模糊背影本该就是我枯燥的高中生活最快乐不过的事情了，若是不小心碰巧走到近处看到她的脸庞，或是扎起来的头发，我就立刻低下头来避开四目相对，亦或是狼狈地逃跑，她真的是太美好了，我配不上，我只适合做不知名的观众，终究是不敢于面对在少年心中那样一个完美的存在。</b>就这样在极致的喜欢与相当的中二这两方势力斗争下，我没有回头。以至于后来每每谈及此时满是后悔与无奈。</p>
+<p class="s-content">2014年的冬天，最后一个星期四的那个下午的课外活动时间。冬日的阳光穿过办公楼顶也穿过窗帘缝隙打落在樫鸟蓝与粉白交织的墙面，给人一种慵懒的感觉，那是我听见你第一次喊我的名字<a href="./annex#15" style="color: #3794ff">[15]</a>，可能这个时间这辈子也忘不了吧，<b>能在校园里远远地看见一个她的模糊背影本该就是我枯燥的高中生活最快乐不过的事情了，若是不小心碰巧走到近处看到她的脸庞，或是扎起来的头发，我就立刻低下头来避开四目相对，亦或是狼狈地逃跑，她真的是太美好了，我配不上，我只适合做不知名的观众，终究是不敢于面对在少年心中那样一个完美的存在。</b>就这样在极致的喜欢与相当的中二这两方势力斗争下，我没有回头，没有转身回应站在后门门口的你。以至于后来每每谈及此时满是后悔与无奈。</p>
 
 <div class="s-index">09</div>
 <div class="s-title">不曾说出口的秘密</div>
@@ -142,7 +142,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">22</div>
 <div class="s-title">姚同学，我喜欢你</div>
-<p class="s-content">我可能真是个不善于表达感情的人<a href="./annex#10" style="color: #3794ff">[10]</a>。嗨呀，其实我自己也震撼于自己高中喜欢你的那些日子，还有阔别已久再次见你后这些日子里又将你放在心中第一位的感觉<a href="./annex#6" style="color: #3794ff">[6]</a>。他们说喜欢要主动，主动联系，我也实在找不到和你聊天合适的借口，蹩脚的知乎回答上撩别人的套路令人嫌弃，而我也仅仅满足于给你的朋友圈点赞，或者逛逛空间看看而已，以及翻开相册<a href="./annex#16" style="color: #3794ff">[16]</a>。
+<p class="s-content">我可能真是个不善于表达感情的人<a href="./annex#10" style="color: #3794ff">[10]</a>。嗨呀，其实我自己也震撼于自己高中喜欢你的那些日子，还有阔别已久再次见你后这些日子里又将你放在心中第一位的感觉<a href="./annex#6" style="color: #3794ff">[6]</a>。他们说喜欢要主动，主动联系，我也实在找不到和你聊天合适的借口，蹩脚的知乎回答上撩别人的套路令人嫌弃，而我也仅仅满足于给你的朋友圈点赞，或者逛逛空间看看而已，以及翻起相册<a href="./annex#16" style="color: #3794ff">[16]</a>。
 姚同学，我觉得我和你在一起的概率可能比我中彩票的概率都要小了，这就导致我清楚的认识到表白就是失败，而失败就是人生常态。曾经的我怕极了失败，不过，这些年了，我也早已习惯这些。</p>
 
 <p class="s-content">他们又说，事情其实很简单，其实就是我要试着说出口而已，而你仅需要知道即可。换个角度，想一想确实是这样。可能这就是局外人自有的优点吧。</p>
@@ -152,10 +152,10 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="s-index">24</div>
 <div class="s-title">致谢与致歉</div>
-<p class="s-content">希望你永远这么漂亮，永远如此可爱阳光，永远优秀。在最后，谢谢你，浪费时间看完我这毫无头绪的时间线以及极其糟糕的胡言乱语。另外，文末，我想对我的两位大学舍友说一句，谢谢你们。也感谢研究生舍友们的鼓励还有没的用上的馊主意。</p>
+<p class="s-content">希望你永远这么漂亮，永远如此可爱阳光，永远在大家心中都是一位优秀的姑娘。在最后，谢谢你，浪费时间看完我这毫无头绪的时间线以及极其糟糕的胡言乱语。另外，文末，我想对我的两位大学舍友说一句，谢谢你们。也感谢研究生舍友们的鼓励还有没的用上的馊主意。</p>
 <p class="s-content">
 
-同时呢也要为我今日的唐突向你致歉<a href="./annex#1" style="color: #3794ff">[1]</a>，请原谅我的'无理取闹'。对不起，实在是抱歉：我存了一些关于你的照片，一直留在相册里，偶尔会看<a href="./annex#12" style="color: #3794ff">[12]</a>。绝大多大抵都是这些年来从洋姐和甘卉他们的朋友圈里偷偷存下来的，未经你的允许，可能这是一个糟糕的习惯，如果介意的话，我会删了的。</p>
+同时呢也要为我今日的唐突向你致歉<a href="./annex#1" style="color: #3794ff">[1]</a>，请原谅我的"无理取闹"。对不起，实在是抱歉：我存了一些关于你的照片，一直留在相册里，偶尔会看<a href="./annex#12" style="color: #3794ff">[12]</a>。绝大多大抵都是这些年来从洋姐和甘卉他们的朋友圈里偷偷存下来的，未经你的允许，可能这是一个糟糕的习惯，如果介意的话，我会删了的。</p>
 <p class="s-content">最后，谢谢知乎上各位哥哥姐姐弟弟妹妹们的赞，你们的留言我都看到了，嗨呀实在是让大家见笑了<a href="./annex#5" style="color: #3794ff">[5]</a>。
 <div align="center"><img width="300px" src="https://pic.downk.cc/item/5f2ca0d914195aa594b35c62.jpg"></div>
 </p>
@@ -171,11 +171,12 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/12/05)更新</a>
 <a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/12/22)更新</a>
 <a href="./annex" style="color: #3794ff;!important;padding:3px">(2021/01/28)更新</a>
+<a href="./annex" style="color: #3794ff;!important;padding:3px">(2021/02/04)停更</a>
 
 <div class="divider"></div>
 
 <p class="s-footer">
-* 本文原名<u>《十七与剑与家园》</u>，自发出后，只剩家园。
+* 本文原名《<u>十七与剑与家园</u>》，自发出后，只剩家园。
 </p>
 <p class="s-footer">
 * 本文暂定于2021年1月末尾发出。
