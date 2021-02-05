@@ -117,16 +117,16 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 
 <div class="divider"></div>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/08/06)更新</a>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/08/09)更新</a>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/08/16)更新</a>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/08/24)更新</a>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/10/20)更新</a>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/11/19)更新</a>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/12/05)更新</a>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2020/12/22)更新</a>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2021/01/28)更新</a>
-<a href="./annex" style="color: #3794ff;!important;padding:3px">(2021/02/04)停更</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/06)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/09)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/16)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/08/24)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/10/20)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/11/19)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/12/05)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2020/12/22)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2021/01/28)更新</a>
+<a href="" style="color: #3794ff;!important;padding:3px">(2021/02/04)停更</a>
 
 <div class="divider"></div>
 
