@@ -11,7 +11,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <body onload="load()"></body>
 
 <center >
-<h1 style="text-shadow:0px 1px 1px #3c3232;font-size:1.4rem;margin-bottom: 6px;font-weight:bold;">十七与剑与家园</h1>
+<h1 style="text-shadow:0px 1px 1px #3c3232;font-size:1.4rem;margin-bottom: 6px;font-weight:bold;">十七<s>与剑</s>与家园</h1>
 <a href="" style="color: #3794ff;!important">(2020/8/6)</a>
 <p></p>
 </center>
@@ -180,5 +180,8 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 </p>
 <p class="s-footer">
 * 本文暂定于2021年1月末尾发出。
+</p>
+<p class="s-footer">
+* 关于本文的几点回复:<a href="./shmily1" style="color: #3794ff;!important;padding:3px">《十一条回复》</a>。
 </p>
 
