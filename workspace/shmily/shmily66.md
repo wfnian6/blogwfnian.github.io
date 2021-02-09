@@ -71,6 +71,6 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 * 关于本文的几点回复:<a href="./shmily1" style="color: #3794ff;!important;padding:3px">《十一条回复》</a>。
 </p>
 <p class="s-footer">
-* 关于<a href="./shmily3" style="color: #3794ff;!important;padding:3px">几张聊天截图</a>。
+* 关于<a href="./shmily3" style="color: #3794ff;!important;padding:3px">终章总结与几张截图</a>。
 </p>
 

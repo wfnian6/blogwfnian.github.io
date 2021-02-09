@@ -102,3 +102,18 @@ css: ["about.css", "animate.css", "morphext.css","whisper.css","xue.css"]
 <p class="pp">
 以及翻看偷存的图片，从别人空间和朋友圈。
 </p>
+
+<div class="divider"></div>
+
+<p class="s-footer">
+* 本文原名《<u>十七与剑与家园</u>》，自发出后，只剩家园。
+</p>
+<p class="s-footer">
+* 本文暂定于2021年1月末尾发出。
+</p>
+<p class="s-footer">
+* 关于本文的几点回复:<a href="./shmily1" style="color: #3794ff;!important;padding:3px">《十一条回复》</a>。
+</p>
+<p class="s-footer">
+* 关于<a href="./shmily3" style="color: #3794ff;!important;padding:3px">几张聊天截图</a>。
+</p>
