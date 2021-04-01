@@ -179,4 +179,4 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <p class="s-footer">
 * 关于本文的几点回复:<a href="./shmily1" style="color: #3794ff;!important;padding:3px">《十一条回复》</a>。
 </p>
-
+<center><div style=""><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1423717806&auto=1&height=32"></iframe></div></center>
