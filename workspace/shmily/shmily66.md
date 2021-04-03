@@ -15,7 +15,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div style="text-align: center;font-size: 1.2em;color: #AAA;">暂时无法查看</div>
 <div style="text-align: center;font-size: 1.2em;color: #AAA;">于2021/02/20公开</div>
-
+<p class="s-content">事情过去很久之后，<b>我自己终于能够用第一人称叙述那些故事，而不是躲在幕后，把走过的那条路再走一遍，才能从沉重的记忆中逃脱出来。</b>喜欢一个人，对方拒绝了，无休止的纠缠只会让对方更加厌烦，最开始我很想找你，非常非常想，我们都长大了，不再是无理取闹的孩子了，理智战胜了感情，我删掉了所有你的照片，忽略掉所有关于你的消息，我在大部分人面前做起了假装做起了沉默的大多数来掩盖悲伤，起码在他们看来，我会一直生猛下去，没有什么可以锤得了我，比如你。我去读书去搞科研，去跑步去做饭，用我本不喜欢的事填充时间空隙，就这样我做到了从你的世界里消失，而没有纠缠是你更加厌烦这件事在当前看来是无比的正确。</p>
 <center>
     <img style=" width:100%;box-shadow: 6px 6px 6px #CCC;" 
     src="https://img.imgdb.cn/item/6020ba983ffa7d37b3748f74.png">

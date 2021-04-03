@@ -28,8 +28,6 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <div class="s-index">02</div>
 <div class="s-title">日记一则</div>
 <p class="s-content">
-<!-- 那日约好去体育馆，时隔多年再次见你，一时间我不知如何向你打招呼，只和你默默地低头一起并排走在在金色太阳渲染下的体育馆门前，此处先省略好多好多的字好不。
-在此之前，在从高考后，我再也没见过你，再也没见过你，五年了，连一个可怜的模糊的背影都不曾见到过，那些闪着光的回忆终究被覆上了时间的灰尘，逐渐模糊在我的记忆里了，--> 
 八月初的时候约好去体育馆，时隔多年再次见你，一时间我不知如何向你打招呼，其实那是第一次和你这样正面交流了，只和你默默地低头一起并排走着，依稀记得我看了看体育馆对面的老君山，又低下头将注意力转移到了我的步伐上，大概真的是好些年没见着你了，你可一点都没变呢<a href="./annex#8" style="color: #3794ff">[8]</a>。
 </p>
 
@@ -41,11 +39,6 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 那天饭后我去爬山，回来时经过公园，而那时公园里正放着一首烂大街的歌：《相逢是首歌》……啊，可真是的。
 </p>
 
-<!-- <p class="s-content">我以为我对你的回忆会渐渐地被时间揩去，于是就把所有关于你的回忆轻放在心中某个角落里慢慢堆积时间的灰尘，这样子七八年过去了，四五年不见了，我在灞陵桥旁边看见你的背影的那个瞬间，回忆像潮水般涌来，将我拍打的千疮百孔，我想逃过那些一幕幕穿心的回忆，但无能为力。而那时公园里正放着一首烂大街却又十分应景的歌：《相逢是首歌》，嘛，真是的——</p>
-
-<div class="s-index">04</div>
-<div class="s-title">写在 </div>
-<p class="s-content">或许那天晚上看到的不是你，但那个熟悉的背影又让我慌乱了思绪，记忆的碎片如同电影倒放打碎的玻璃一样，整齐地拼合了起来，熟悉的一幕在七八年后的那天又带一点点陌生的感觉。 </p> -->
 <div class="s-index">04</div>
 <div class="s-title">彩云易散</div>
 <p class="s-content">要说最初关于你的记忆，可能是高一的某次语文考试，不学无术的我绝望地发着呆，不小心朝着前排你的方向，回过神来时，你看了我一下，我便匆忙将脑袋转向窗外，当初只是想这是隔壁班的同学吧。再到后来，学校停电，蜡烛成了照明的设备，熙熙攘攘的晚自习放学后的楼梯内挤满了人群，看不清台阶也看不清人，我贪玩，便点燃了手中的蜡烛，而后脖子后吹来的凉风晃动了蜡烛，微弱的光芒下我只记得身后是当初不认识的你了。</p><p class="s-content">
@@ -187,4 +180,3 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <p class="s-footer">
 * 关于<a href="./shmily3" style="color: #3794ff;!important;padding:3px">终章总结与几张截图</a>。
 </p>
-<center><div style="display: none;"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=1423717806&auto=1&height=32"></iframe></div></center>

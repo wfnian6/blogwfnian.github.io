@@ -13,8 +13,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <div class="divider"></div>
 
-<div style="text-align: center;font-size: 1.2em;color: #AAA;">暂时无法查看，解封期暂定一年</div>
-<div style="text-align: center;font-size: 1.2em;color: #AAA;">视情况公开</div>
+<div style="text-align: center;font-size: 1.2em;color: #AAA;">暂时密封，解封期暂定一年2021/02/06</div>
 
 <!-- <center>
     <img style=" width:100%;box-shadow: 6px 6px 6px #CCC;" 
