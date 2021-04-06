@@ -11,8 +11,8 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <body onload="load()"></body>
 
 <center >
-<h1 style="text-shadow:0px 1px 1px #3c3232;font-size:1.4rem;margin-bottom: 6px;font-weight:bold;">十七<s>与剑</s>与家园</h1>
-<a href="" style="color: #3794ff;!important">(2020/8/6)</a>
+<h1 style="text-shadow:0px 1px 1px #3c3232;font-size:1.4rem;margin-bottom: 6px;font-weight:bold;"><s>剑与</s>家园</h1>
+<a href="" style="color: #3794ff;!important">(2021/4/6)</a>
 <p></p>
 </center>
 
