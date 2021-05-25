@@ -5,8 +5,8 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 
 <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
 <script>
-    function load() { if(md5(location.href.split('?')[1])!="e833e042f509c996b1b25324d56659f") 
-    window.location.href="http://wfnian.com"}
+    function load() { if(md5(location.href.split('?')[1])!="e833e042f509c996b1b25324d56659fb") 
+    window.location.href="{{site.baseurl}}"}
 </script>
 <body onload="load()"></body>
 
