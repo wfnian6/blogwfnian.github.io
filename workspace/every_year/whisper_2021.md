@@ -3,7 +3,17 @@ layout: page
 css: ["whisper.css"]
 ---
 
-<p class ='pp'><b><a href="./whisper_2021">上一年 </a><a href="" style="color: #3794ff"> 2020年</a></b></p>
+
+<div class="row">
+  <div class="col s12">
+      <div class="card hoverable">
+        <div class="card-content"
+          style="text-align: center;margin: -5px;font-weight: 600;font-optical-sizing: inherit;">
+            <a href="{{site.baseurl}}/workspace/every_year/whisper_2021" style="color: #FFAB40;">上一年 2020年</a>
+        </div>
+      </div>
+  </div>
+</div>
 
 <p class='pp'>元旦就……大多数生活的难熬都可以一个人扛下去，所以嗯。🐾</p>  
 <p class='pp'>我想想，选调生，国家电网，程序员，啊啊啊啊啊啊啊啊啊啊啊啊救救我吧，好难选择啊，</p>  
@@ -53,4 +63,8 @@ css: ["whisper.css"]
 <p class ='pp'>学会拒绝，拒绝当工具人。</p>
 <p class ='pp'>坚持以家人为本，明辨是非，永远对除家人以外的的人的话保持七分以上的怀疑，对家人的话保持十分的信任。6.4</p>
 <p class ='pp'>我该不该继续呢？</p>
+<p class ='pp'>在公园和故宫的宫址我看到了北国的早春，在坚冰还盖着北海的时候，我看到了怒放的梅花，北京的数目引起了我无穷的欣赏。</p>
+<p class ='pp'>大妖怪的气量，并不是获得力量后俯瞰的风景，而是仰望风景的旅途中，不顾一切的坚持</p>
+<p class ='pp'>天要下雨，娘要嫁人，由<b>她</b>去吧。</p>
+
 <p class='pp'><b>我心中有一簇迎着烈日而生的花，比一切美酒都要芬芳，滚烫的馨香淹没稻草人的胸膛，草扎的精神，从此万寿无疆。</b></p>
