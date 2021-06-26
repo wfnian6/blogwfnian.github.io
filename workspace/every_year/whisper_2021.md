@@ -26,6 +26,7 @@ css: ["whisper.css"]
 </div>
 
 
+<p class ='pp'><img style="width: 300px;" src="https://pic.imgdb.cn/item/60d69d48844ef46bb2211113.jpg"></p>
 <p class ='pp'>最狠毒，最残忍，最阴暗的，莫过于捧杀，杀人于无形，让你越来越飘，知道有一天，捧得越高，摔得越惨，麻烦各大广告商捧杀一下我，给我的网站给点广告@微信广告，@百度联盟。2019年的工资快花完了啊啊啊啊啊啊啊啊，再没钱就得向家里要钱了，怪丢人的emmmm。</p>
 <p class ='pp'>鏄ㄦ櫄鑱婂ぉ鐨勬椂鍊欏ス鐪熺殑濂藉偦閫煎晩锛屾嬁浣犲綋宸ュ叿浜猴紝鐪熺殑鎭跺績锛屾兂璧疯dss鎭跺績鐨勬椂闂寸灛闂翠笉鎯崇悊浜嗭紝杩樺ソ鎴戝繊鑰愮▼搴﹂珮锛屼竴杈归獋鐫€鍌婚€肩殑鍚屾椂杩樿兘鎺ョ潃鑱婏紝鏃ワ紝闅鹃亾鎴戠湡鐨勬槸鍚稿紩缁胯尪浣撹川鍚楋紝鍌婚€煎偦閫煎偦閫?</p>
 <p class ='pp'>还是阴阳师游戏好玩。</p>
@@ -72,7 +73,7 @@ css: ["whisper.css"]
 <p class ='pp'>受到新冠疫情的影响</p>
 <p class ='pp'>请让我回家吧，我还有想见的人，我还有想做的事。</p>
 <p class ='pp'><s>俄日</s>(划掉不能骂人)，再不让走机票我买不起了，火车票抢不到了。woccccccccccccccccccc</p>
-<p class ='pp'>感动到哭泣，我的神经网络技术竟然是A-，最优化也是A-。哭了，当初复习的那叫一个累。<img src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon12.png">好了好了，不是说了研究生目的是来混毕业的嘛。</p>
+<p class ='pp'>感动到哭泣，我的神经网络技术竟然是A-，最优化也是A-。哭了，当初复习的那叫一个累。<img src="https://gsp0.baidu.com/5aAHeD3nKhI2p27j8IqW0jdnxx1xbK/tb/editor/images/client/image_emoticon12.png" >好了好了，不是说了研究生目的是来混毕业的嘛。</p>
 <p class ='pp'>啊，每天早上一碗烫豆浆，滚烫的暖流滑入干涩的胃囊，豆子的馨香淹没整个胸腔，整个清晨都变得无比激昂（啧啧啧，有朱广权那味儿了@朱广权）</p>
 <p class ='pp'>妈呀，好甜啊啊啊，我被暖到了。<img width="30%" src="https://img.imgdb.cn/item/6000f7733ffa7d37b3130aef.jpg"></p>
 <p class ='pp'>今日极其烦躁，写不完的代码做不完的事，虽然昨天洗澡了今天继续，冲他的一干二净。🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀🛀全都冲干净。1.14</p>
