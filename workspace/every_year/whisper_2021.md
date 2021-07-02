@@ -8,7 +8,7 @@ css: ["whisper.css"]
       <div class="card hoverable" style="background: #dbdbdb">
         <div class="card-content"
           style="text-align: center;margin: -5px;font-weight: 600;font-optical-sizing: inherit;padding:16px">
-            <a href="{{site.baseurl}}/workspace/every_year/whisper_2021" style="color: #FF8000;">2021年小黑账本</a>
+            <a href="{{site.baseurl}}/workspace/every_year/whisper_2020" style="color: #FF8000;">2021年小黑账本</a>
         </div>
       </div>
   </div>
@@ -25,13 +25,15 @@ css: ["whisper.css"]
   </div>
 </div>
 
+<p class ='pp'>如果有一天我再也不理你了你会怎么办？</p>
+
 <p class="pp">今天早上梦见老姚了，梦见她和我坐在第一排靠左边的位置上，梦见台上的是春荷老师，梦见老师让我去发摘录诗集散文的笔记本，梦见黄万江和许仕州在争闹，一切都蒙上了一层回忆的滤镜，无关痛痒。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大脑的意识主动赋予梦境最美好的场景，比如说我最喜欢的北区教室，窗外微微洒进来的日光和斑驳的树影，高中时候最喜欢的老师之一语文老师，最好的朋友们，喜欢过的人，最惬意的课……<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;梦境很好，令人放松，我起床时，已经八点半了，这是少有睡到这么晚的时间。似乎前些天的疲惫已然不见了。</p>
 
 
 <p class ='pp'>这个论文作者不说人话，不说人话，不说人话！<br><img style="width: 300px;" src="https://pic.imgdb.cn/item/60d69d48844ef46bb2211113.jpg"></p>
-<p class ='pp'>最狠毒，最残忍，最阴暗的，莫过于捧杀，杀人于无形，让你越来越飘，知道有一天，捧得越高，摔得越惨，麻烦各大广告商捧杀一下我，给我的网站给点广告@微信广告，@百度联盟。2019年的工资快花完了啊啊啊啊啊啊啊啊，再没钱就得向家里要钱了，怪丢人的emmmm。</p>
+<p class ='pp'><!-- 最狠毒，最残忍，最阴暗的，莫过于捧杀，杀人于无形，让你越来越飘，知道有一天，-->捧得越高，摔得越惨，麻烦各大广告商捧杀一下我，给我的网站给点广告@微信广告，@百度联盟。2019年的工资快花完了啊啊啊啊啊啊啊啊，再没钱就得向家里要钱了，怪丢人的emmmm。</p> 
 <p class ='pp'>鏄ㄦ櫄鑱婂ぉ鐨勬椂鍊欏ス鐪熺殑濂藉偦閫煎晩锛屾嬁浣犲綋宸ュ叿浜猴紝鐪熺殑鎭跺績锛屾兂璧疯dss鎭跺績鐨勬椂闂寸灛闂翠笉鎯崇悊浜嗭紝杩樺ソ鎴戝繊鑰愮▼搴﹂珮锛屼竴杈归獋鐫€鍌婚€肩殑鍚屾椂杩樿兘鎺ョ潃鑱婏紝鏃ワ紝闅鹃亾鎴戠湡鐨勬槸鍚稿紩缁胯尪浣撹川鍚楋紝鍌婚€煎偦閫煎偦閫?</p>
 <p class ='pp'>还是阴阳师游戏好玩。</p>
 <p class ='pp'>朱老总通过读书来戒掉毒瘾，这可是多大的意志力啊，总之向朱老总学习，不说毒瘾，戒了该戒掉的东西例如刷知乎这一恶习，总是可以学习的。</p>
