@@ -8,7 +8,7 @@ css: ["whisper.css"]
       <div class="card hoverable" style="background: #dbdbdb">
         <div class="card-content"
           style="text-align: center;margin: -5px;font-weight: 600;font-optical-sizing: inherit;padding:16px">
-            <a href="{{site.baseurl}}/workspace/every_year/whisper_2020" style="color: #FF8000;">2021年小黑账本</a>
+            <a href="{{site.baseurl}}/workspace/every_year/whisper_2021" style="color: #FF8000;">2021年小黑账本</a>
         </div>
       </div>
   </div>
@@ -19,13 +19,14 @@ css: ["whisper.css"]
       <div class="card hoverable" style="background: #dbdbdb">
         <div class="card-content"
           style="text-align: center;margin: -5px;font-weight: 600;font-optical-sizing: inherit;padding:6px;margin-top: -34px;">
-            <a href="{{site.baseurl}}/workspace/every_year/whisper_2021" style="color: #FF8000;">上一年 2020年</a>
+            <a href="{{site.baseurl}}/workspace/every_year/whisper_2020" style="color: #FF8000;">上一年 2020年</a>
         </div>
       </div>
   </div>
 </div>
 
-<p class ='pp'>如果有一天我再也不理你了你会怎么办？</p>
+<p class ='pp'>李老师说：逃避解决不了问题。那就头铁撞南墙，冲</p>
+<p class ='pp' >如果<div style="color:#f8f8f8">有一天我再也不理你了你会怎么办？</div></p>
 
 <p class="pp">今天早上梦见老姚了，梦见她和我坐在第一排靠左边的位置上，梦见台上的是春荷老师，梦见老师让我去发摘录诗集散文的笔记本，梦见黄万江和许仕州在争闹，一切都蒙上了一层回忆的滤镜，无关痛痒。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大脑的意识主动赋予梦境最美好的场景，比如说我最喜欢的北区教室，窗外微微洒进来的日光和斑驳的树影，高中时候最喜欢的老师之一语文老师，最好的朋友们，喜欢过的人，最惬意的课……<br>
