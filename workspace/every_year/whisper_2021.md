@@ -26,7 +26,7 @@ css: ["whisper.css"]
 </div>
 
 <p class ='pp'>美好的事物总是很早到来，很晚察觉，然后让我用很长的时间去怀念</p>
-<p class ='pp'><img width="36%" src="https://pic.imgdb.cn/item/60ec1f675132923bf840570a.jpg"></p>
+<p class ='pp'>手稿<img width="36%" src="https://pic.imgdb.cn/item/60ec1f675132923bf840570a.jpg"></p>
 <p class ='pp'>李老师说：逃避解决不了问题。那就头铁撞南墙，冲</p>
 <p class ='pp' >如果<hidden style="color:#f8f8f8">有一天我再也不理你了你会怎么办？<br>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈<br>笑死我了，戏精本精。说不出来，说不出来。</hidden></p>
 
