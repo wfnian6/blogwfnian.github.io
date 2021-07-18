@@ -41,3 +41,13 @@ sass:
   style: compressed
 future: true
 port: 8080
+
+valine_comment:
+  enable: true
+# app_id
+  leancloud_appid: WNHXigHCdsvSKD9hzOamH2Ga-gzGzoHsz
+# app_key
+  leancloud_appkey: 5kFnjO97HcKCk4EaUUCcuGPs
+# placeholde
+  placeholder: "在此随意评论"
+  guest_info: nick,mail
