@@ -1,0 +1,40 @@
+code, kbd, pre, samp{
+    background-color: #1e1e1e;
+    font-family: 'Cascadia Code', Consolas, 'Courier New', monospace;
+}
+.highlight .k, .highlight .kd, .highlight .kv{
+    color:#986574 !important
+}
+main figure.highlight pre{
+    white-space:pre;
+}
+.highlight .bp{
+    color: #5689b4 !important
+}
+.highlight .nf{
+    color: #ce6700 !important
+}
+.highlight .nc{
+    color: #c60000 !important
+}
+.highlight .nn{
+    color: #c60000 !important
+}
+.highlight .m, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mb, .highlight .mx{
+    color: #5689b4 !important
+}
+.highlight .p, .highlight .pi{
+    color:#c1c1c1 !important
+}
+.highlight .o, .highlight .ow{
+    color:#986574 !important
+}
+.highlight .s, .highlight .sb, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .sr, .highlight .s1{
+    color: #9aa83a !important;
+}
+code{
+    font-family: 'Cascadia Code', Consolas, 'Courier New', monospace !important;
+}
+.highlight{
+    color: #bebebe !important;
+}
