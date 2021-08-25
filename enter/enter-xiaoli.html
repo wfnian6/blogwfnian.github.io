@@ -28,8 +28,12 @@
                         if (md5(pass.value) == '71aad7fe0cb15be5ebab385c2a6434fe') {
                             window.location.href = "/workspace/lili/lili?" + (pass.value);
                         }
+                        else if (pass.value.length != 4) {
+                            alert("密码四位。")
+                        }
                         else {
-                            alert("需要密码。")
+                            console.log(pass.value.length)
+                            alert("密码错误。")
                         }
                     }
                 </script>
@@ -212,7 +216,6 @@
             <br>
             <span class="site-footer-owner">
                 * <font color="#819198">由于隐私问题 </font>实行加密 <font color="#819198">. 加密技术MD5<br>
-
 
             </span>
         </footer>
