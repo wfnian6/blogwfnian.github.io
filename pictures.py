@@ -14,7 +14,7 @@ def format_url():
         div = """<div class="day">\n\t<div class="date">"""+y+'年'+m+'月'+d+"""日 | 北京市 </div>\n\t<div class="show">\n"""
         pic_list=""
         for item in res:
-            pic_list+='\t\t<div class="list"><img src="'+item+'"></div>\n'
+            pic_list+='\t\t<div class="list"><img id="img" src="'+item+'"></div>\n'
         div=div+pic_list+"\t</div>\n</div>\n"
         print(div)
 
