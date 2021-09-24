@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#EEB422">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="icon" href="../assets/res/luck.ico" type="image/x-icon" />
+    <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
+</head>
+
+<body>
+
+
+    <section class="page-header">
+        <h1 class="project-name">太阳照常升起</h1>
+        <h2 class="project-tagline">他记得我们，一如我们记得他</h2>
+    </section>
+
+    <main id="content" class="main-content" role="main">
+        <div>
+
+            <body style="margin: 0px">
+                <script>
+                    function login1() {
+                        var pass = document.getElementById("password");
+
+                        if (md5(pass.value) == '4a7d1ed414474e4033ac29ccb8653d9b') {
+                            window.location.href = "/workspace/mao/mao?" + (pass.value);
+                        }
+                        else {
+                            alert("已识乾坤大，犹怜草木青")
+                        }
+                    }
+                </script>
+                <div id="login_frame">
+                    <form method="post">
+                        <p><label class="label_input"> 您需要输入密码方可进入 </label><input type="password" id="password"
+                                class="text_field" />
+                        </p>
+                        <div id="login_control">
+                            <input id="btn_login" value="进入" onclick="login1();" />
+                            <a id="forget_pwd" href="https://www.baidu.com/s?wd=如何破解他网站的密码🤪">没有密码？</a>
+                        </div>
+                    </form>
+                </div>
+                <style>
+                    #login_frame {
+                        width: 320px;
+                        height: 160px;
+                        padding: 10px;
+                        left: 50%;
+                        top: 50%;
+                        background-image: linear-gradient(253deg, #ffffff, #999999);
+                        border-radius: 0px;
+                        text-align: center;
+                        box-shadow: 4px 4px 3px #aaa;
+                        margin: auto;
+                        margin-top: 20px;
+                    }
+
+                    #image_logo {
+                        margin-top: 22px;
+                    }
+
+                    .label_input {
+                        font-size: 14px;
+                        font-family: 宋体;
+                        line-height: 28px;
+                        text-align: center;
+                        text-shadow: 8px 5px 9px;
+                        padding-left: 8px;
+                        padding-right: 10px;
+                        color: rgb(11, 11, 11);
+                        border-radius: 5px;
+                    }
+
+                    .project-tagline {
+                        margin-bottom: 2rem;
+                        font-weight: normal;
+                        opacity: 0.7;
+                        text-shadow: 8px 5px 4px #3c3232;
+                        font-size: 1rem;
+                    }
+
+                    .text_field {
+                        width: 265px;
+                        height: 30px;
+                        color: rgb(187, 187, 187);
+                        border-radius: 5px;
+                        border: 0;
+                        text-align: center;
+                        font-size: 20px;
+                    }
+
+                    .project-name {
+                        margin-top: 0;
+                        margin-bottom: 0.1rem;
+                        text-shadow: 1px 1px 4px #3c3232;
+                        font-size: 1.75rem;
+                    }
+
+                    .page-header {
+                        color: #fff;
+                        text-align: center;
+                        background-color: #5947f5;
+                        background-image: linear-gradient(120deg, #000000, #ff2222);
+                    }
+
+                    @media screen and (min-width: 64em) {
+                        .page-header {
+                            padding: 5rem 6rem;
+                        }
+                    }
+
+                    @media screen and (min-width: 42em) and (max-width: 64em) {
+                        .page-header {
+                            padding: 3rem 4rem;
+                        }
+                    }
+
+                    @media screen and (max-width: 42em) {
+                        .page-header {
+                            padding: 2rem 1rem;
+                        }
+                    }
+
+                    #btn_login {
+                        font-size: 14px;
+                        font-family: 宋体;
+                        width: 120px;
+                        height: 28px;
+                        line-height: 28px;
+                        text-align: center;
+                        box-shadow: 4px 4px 3px 0px #484848;
+                        color: white;
+                        background-color: #808080;
+                        border-radius: 6px;
+                        border: 0;
+                        float: left;
+                    }
+
+                    #forget_pwd {
+
+                        color: rgb(7, 38, 216);
+
+                        float: right;
+                        top: 5px;
+                        font-size: 14px;
+                        font-family: 宋体;
+                        width: 120px;
+                        height: 28px;
+                        line-height: 28px;
+                        text-align: center;
+                        box-shadow: 4px 4px 3px 0px #484848;
+                        background-color: #808080;
+                        border-radius: 6px;
+                        border: 0;
+                        float: right;
+                    }
+
+                    #forget_pwd:hover {
+                        color: blue;
+                        text-decoration: underline;
+                    }
+
+                    #login_control {
+                        padding: 0 28px;
+                    }
+
+                    .site-footer {
+                        padding-top: 2rem;
+                        margin-left: 1rem;
+                    }
+
+                    @media screen and (min-width: 64em) {
+                        .site-footer {
+                            font-size: 1rem;
+                        }
+                    }
+
+                    @media screen and (min-width: 42em) and (max-width: 64em) {
+                        .site-footer {
+                            font-size: 1rem;
+                        }
+                    }
+
+                    @media screen and (max-width: 42em) {
+                        .site-footer {
+                            font-size: 0.8rem;
+                        }
+                    }
+
+                    .site-footer-owner {
+                        display: block;
+                        font-weight: bold;
+                    }
+
+                    .site-footer-credits {
+                        color: #819198;
+                    }
+                </style>
+            </body>
+        </div>
+        <footer class="site-footer">
+            <br>
+            <span class="site-footer-owner">
+                <font color="#819198">由于隐私问题</font>
+                实行加密啦 <font color="#819198">. 加密技术MD5<br>由于技术问题 </font>加密技术脆弱 .by <font color="#1e6bb8">
+                    wfnian</font>.
+            </span>
+        </footer>
+    </main>
+</body>
+
+</html>
