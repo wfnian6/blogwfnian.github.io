@@ -2,7 +2,7 @@
 layout: page
 css: ["whisper.css"]
 ---
-
+<script type="text/javascript">function display_alert() {alert("朋友圈都有三天可见，我这也得一年可见...虽然挺智障的")}</script>
 <div class="row">
   <div class="col s12">
       <div class="card hoverable" style="background: #dbdbdb">
@@ -19,13 +19,14 @@ css: ["whisper.css"]
       <div class="card hoverable" style="background: #dbdbdb">
         <div class="card-content"
           style="text-align: center;margin: -5px;font-weight: 600;font-optical-sizing: inherit;padding:6px;margin-top: -34px;">
-            <a href="{{site.baseurl}}/workspace/every_year/whisper_2020" style="color: #FF8000;">上一年 2020年</a>
+            <a onclick="display_alert()" href="" style="color: #FF8000;">上一年 2020年</a>
         </div>
       </div>
   </div>
 </div>
 
 
+<p class ='pp'>一直在犹豫买个airpods，本来beats x已经够用了，群里看见有人出，然后我点看他的朋友圈，发现他的个性签名是<b>我行四方，以日以年</b>，结尾两字是：方年。我又查了一下这句话的出处和含义，出自诗经，意思是，日复一日啊年复年，我依然在行走四方。就，当时就震撼了，然后想都没想就买了耳机，我的爷爷饱读古文，我的名字我仅仅以为是一个时间点的代表，当我看到句话的时候，我觉得我的名字好有含义。我爷爷好厉害啊。2021-09-25 16:11:52</p>
 <p class ='pp'>今天晚上四食堂又又又又碰见了。<img width="40%" src="https://pic.imgdb.cn/item/60f78c925132923bf884a7ca.jpg">。笑死了。</p>
 <p class ='pp'>美好的事物总是很早到来，很晚察觉，然后让我用很长的时间去怀念</p>
 <p class ='pp'>手稿<img width="36%" src="https://pic.imgdb.cn/item/60ec1f675132923bf840570a.jpg"></p>
