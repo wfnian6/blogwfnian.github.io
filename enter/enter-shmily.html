@@ -28,8 +28,11 @@
                         if (md5(pass.value) == 'e833e042f509c996b1b25324d56659fb') {
                             window.location.href = "/workspace/shmily/shmily?" + (pass.value);
                         }
+                        else if (pass.value.length != 4) {
+                            alert("密码四位。")
+                        }
                         else {
-                            alert("大兄弟，这需要密码啊。💢")
+                            alert("密码错误。")
                         }
                     }
                 </script>
