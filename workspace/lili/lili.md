@@ -6,7 +6,7 @@ css: ["about.css", "animate.css", "morphext.css","xue.css"]
 <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
 <script>
     function load() { if(md5(location.href.split('?')[1])!="71aad7fe0cb15be5ebab385c2a6434fe") 
-    window.location.href="{{site.baseurl}}"}
+    window.location.href="{{site.baseurl}}" else{;}}
 </script>
 <body onload="load()"></body>
 

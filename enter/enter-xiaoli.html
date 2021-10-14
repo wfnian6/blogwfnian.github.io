@@ -25,15 +25,11 @@
                 <script>
                     function login1() {
                         var pass = document.getElementById("password");
-                        if (md5(pass.value) == '71aad7fe0cb15be5ebab385c2a6434fe') {
-                            window.location.href = "/workspace/lili/lili?" + (pass.value);
-                        }
-                        else if (pass.value.length != 4) {
+                        if (pass.value.length != 4) {
                             alert("密码四位。")
                         }
                         else {
-                            console.log(pass.value.length)
-                            alert("密码错误。")
+                            window.location.href = "/workspace/lili/llwx?" + (pass.value);
                         }
                     }
                 </script>
