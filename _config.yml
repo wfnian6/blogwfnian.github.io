@@ -20,7 +20,7 @@ baseurl: ""
 url: "https://wfnian.com/"
 permalink: /:year/:month/:day/:title
 repository: wfnian/blogwfnian.github.io
-paginate: 6
+paginate: 8
 
 # MatJek specific configurations
 github_profile: "https://github.com/wfnian"
