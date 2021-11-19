@@ -12,3 +12,12 @@ p.pp{
     font-size: 17px;
     text-align: justify;
 }
+
+fold-title{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: white ;
+    height:30px;
+    background-color: #009688;
+}
