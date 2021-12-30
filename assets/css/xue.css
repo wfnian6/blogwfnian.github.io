@@ -1,10 +1,9 @@
-html {
-  color: rgba(90, 90, 90, 0.87);
-  line-height: 1.7;
-  font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-}
+/* html {
+  
+} */
 .s-index {
+  line-height: 1.7;
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
   font-size: 22px;
   font-weight: bold;
@@ -12,17 +11,31 @@ html {
   text-decoration: underline;
   margin-top: 10px;
   margin-bottom: -5px;
+
 }
 
 .s-title {
+  color: rgba(90, 90, 90, 0.87);
+  line-height: 1.7;
+  font-family: "Times New Roman", Times, serif;
   text-align: center;
   font-size: 23px;
   font-weight: bold;
 }
 .s-content {
+  color: rgba(90, 90, 90, 0.87);
+  line-height: 1.7;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
   text-indent: 32px;
   text-align: justify;
 }
 .s-footer {
   font-size: 12px;
+}
+p{
+  color: rgba(90, 90, 90, 0.87);
+  line-height: 1.7;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
 }
