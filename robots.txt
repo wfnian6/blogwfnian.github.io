@@ -16,6 +16,9 @@ Disallow: /
 User-agent: Sogou Orion spider
 Disallow: /
 
+User-agent: Sogou
+Disallow: /
+
 User-agent: *
 Disallow: /
 
