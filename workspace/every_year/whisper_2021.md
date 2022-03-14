@@ -19,7 +19,7 @@ css: ["whisper.css"]
       <div class="card hoverable" style="background: #dbdbdb">
         <div class="card-content"
           style="text-align: center;margin: -5px;font-weight: 600;font-optical-sizing: inherit;padding:6px;margin-top: -34px;">
-            <a onclick="display_alert()" href="" style="color: #FF8000;">上一年 2020年</a>
+            <a href="{{site.baseurl}}/workspace/every_year/whisper_2020" style="color: #FF8000;">上一年 2020年</a>
         </div>
       </div>
   </div>
