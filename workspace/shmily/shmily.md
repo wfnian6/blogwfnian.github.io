@@ -3,12 +3,12 @@ layout: default
 css: ["about.css", "animate.css", "morphext.css","xue.css"]
 ---
 
-<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
+<!-- <script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
 <script>
     function load() { if(md5(location.href.split('?')[1])!="e833e042f509c996b1b25324d56659fb") 
     window.location.href="{{site.baseurl}}"}
 </script>
-<body onload="load()"></body>
+<body onload="load()"></body> -->
 
 <center >
 <h1 style="text-shadow:0px 1px 1px #3c3232;font-size:1.4rem;margin-bottom: 6px;font-weight:bold;"><s>剑与</s>家园</h1>
