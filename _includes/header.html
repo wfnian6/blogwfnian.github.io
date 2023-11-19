@@ -47,11 +47,35 @@
       s.parentNode.insertBefore(hm, s);
     })();
   </script>
+  <script>
+    // Display the modal when the page loads
+    window.onload = function () {
+      if (!localStorage.getItem('agreementAccepted')) {
+        document.getElementById('clause').style.display = 'flex';
+      }
+    };
+
+    function acceptAgreement() {
+      localStorage.setItem('agreementAccepted', 'true');
+      document.getElementById('clause').style.display = 'none';
+    }
+
+    function rejectAgreement() {
+      window.location.href = 'https://bing.com';
+    }
+  </script>
 
 </head>
 
 <body>
   <header>
+    <div id="clause">
+      <div class="modal-content">
+        <p>本网站属于个人网站，可能包含部分不礼貌行为，您点击接受表明您接受本网站可能有您的名字在网站内容中。（例如我看谁不爽我就骂谁）</p>
+        <button onclick="acceptAgreement()">接受</button>
+        <button onclick="rejectAgreement()">拒绝并退出</button>
+      </div>
+    </div>
     <nav class="top-nav teal">
       <div class="nav-wrapper">
         <div class="container">
@@ -83,8 +107,6 @@
         <div class="divider"></div>
       </li>
       <li><a class="waves-effect" href="{{site.baseurl}}/about"><i class="material-icons">person</i>关于我</a></li>
-      <li><a class="waves-effect" href="{{site.baseurl}}/feed.xml" target="_blank"><i
-            class="material-icons">rss_feed</i>RSS</a></li>
       <li><a class="waves-effect" href="{{site.baseurl}}/person"><i class="material-icons">hive</i>芳年</a></li>
       <!-- <li><a class="waves-effect" href="{{site.baseurl}}/contact"><i class="material-icons">email</i>Contact</a></li> -->
       <!-- <image width="100%" src="https://pic.downk.cc/item/5f7e67831cd1bbb86b98e456.jpg"> -->
