@@ -29,7 +29,7 @@ user_email: "wfnian@gmail.com"
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
@@ -44,10 +44,10 @@ port: 8080
 
 valine_comment:
   enable: true
-# app_id
+  # app_id
   leancloud_appid: WNHXigHCdsvSKD9hzOamH2Ga-gzGzoHsz
-# app_key
+  # app_key
   leancloud_appkey: 5kFnjO97HcKCk4EaUUCcuGPs
-# placeholde
+  # placeholde
   placeholder: "在此随意评论"
   guest_info: nick,mail
