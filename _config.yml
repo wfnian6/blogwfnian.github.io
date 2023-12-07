@@ -17,9 +17,9 @@ title: wfnian
 description: > # this means to ignore newlines until "baseurl:"
   <b>点击左上"☰"菜单或轻滑屏幕左侧查看更多</b>.
 baseurl: ""
-url: "https://wfnian.com/"
+url: "https://wfnian6.github.io"
 permalink: /:year/:month/:day/:title
-repository: wfnian/blogwfnian.github.io
+# repository: wfnian/blogwfnian.github.io
 paginate: 4
 
 # MatJek specific configurations
